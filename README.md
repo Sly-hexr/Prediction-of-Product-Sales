@@ -6,14 +6,14 @@
 ## The goal of these series of models is to identify success markers in our various locations and to improve by helping them understand the products and outlets that have a significant impact on increasing sales. Helping our locations understand the importance of these factors will be crucial in increasing sales to stimulate future growth of the company overall.
 
 
-## This dataset will provide a sales prediction for various supermarkets
+# This dataset will provide a sales prediction for various supermarkets
 
 https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view?usp=sharing
 
-## Data cleaning
+# Data cleaning
 To provide the most accurate data possible the data has been cleaned to remove all null/duplicated values for optimal performance
 
-## Exploratory Data Visualization
+# Exploratory Data Visualization
 Visualized data in the form of graphs and plots to demonstrate correlation the following plots were used:
 - Bar plot
 - Box Plot
@@ -33,7 +33,7 @@ Visualized data in the form of graphs and plots to demonstrate correlation the f
 ## This plot demonstrates a positive correlation between the sales of our quality branded products rather than our economically cost effective products
 
 
-## Machine Learning Models Used:
+# Machine Learning Models Used:
 - Linear Regression
 - Random Forest Regression
 - Tuned Random Forest Regression (Best Parameters used)
@@ -64,5 +64,5 @@ Regression Metrics: Test Data
 
 Among the regression models used, we would definitely implement the tuned random forest model. However, a regression model to make predictions for this dataset would be fairly unreliable. The R^2 score is especially important to us as it displays an accuracy value of only 50% after tuning. The RMSE score is also a little on the higher side for an error score related to our target.
 
-## Final Reccomendations
+# Final Recommendations
 While the model was somewhat unreliable the data visualizations we do have display trends that may not say everything we need but definitely do tell a story. We would just need to find more correlating values and maybe some more data to further tune and return a more accurate model 
