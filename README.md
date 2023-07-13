@@ -20,17 +20,17 @@ Visualized data in the form of graphs and plots to demonstrate correlation the f
 - Scatter plot
 
 ![data1](https://github.com/Sly-hexr/Prediction-of-Product-Sales/assets/133910731/3f13ec36-c8d8-4ffa-a3e7-abed6b5a879d)
-## This plot displays that the 3 most commonly sold items from our supermarkets are fruits/vegetables, household goods, and snack foods
+ The plot above displays that the 3 most commonly sold items from our supermarkets are fruits/vegetables, household goods, and snack foods
 
 
 
 ![data2](https://github.com/Sly-hexr/Prediction-of-Product-Sales/assets/133910731/e0225117-33e9-44a1-8ef6-9f67b4d3664b)
-## This plot shows us that tier 3 stores perform better than either tier 1 or tier 2 locations
+ The plot above shows us that tier 3 stores perform better than either tier 1 or tier 2 locations
 
 
 
 ![data3](https://github.com/Sly-hexr/Prediction-of-Product-Sales/assets/133910731/bd84f637-0c6f-4629-98dd-df97cff56902)
-## This plot demonstrates a positive correlation between the sales of our quality branded products rather than our economically cost effective products
+ The plot above demonstrates a positive correlation between the sales of our quality branded products rather than our economically cost effective products
 
 
 # Machine Learning Models Used:
