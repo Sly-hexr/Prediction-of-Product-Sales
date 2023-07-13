@@ -1,8 +1,9 @@
 # Prediction-of-Product-Sales
 ![supermarket](https://github.com/Sly-hexr/Prediction-of-Product-Sales/assets/133910731/f4442f73-3253-43fa-8c3e-215141401783)
 #### Nicholas Rowland
-
-# The goal of these series of models is to identify success markers in our various locations and to improve by helping them understand the products and outlets that have a significant impact on increasing sales. Helping our locations understand the importance of these factors will be crucial in increasing sales to stimulate future growth of the company overall.
+------------------------------------------------------------
+# Purpose
+## The goal of these series of models is to identify success markers in our various locations and to improve by helping them understand the products and outlets that have a significant impact on increasing sales. Helping our locations understand the importance of these factors will be crucial in increasing sales to stimulate future growth of the company overall.
 
 
 ## This dataset will provide a sales prediction for various supermarkets
