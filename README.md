@@ -66,3 +66,6 @@ Among the regression models used, we would definitely implement the tuned random
 
 # Final Recommendations
 While the model was somewhat unreliable the data visualizations we do have display trends that may not say everything we need but definitely do tell a story. We would just need to find more correlating values and maybe some more data to further tune and return a more accurate model 
+
+# Prediction of product sales revisited
+
