@@ -69,3 +69,33 @@ While the model was somewhat unreliable the data visualizations we do have displ
 
 # Prediction of product sales revisited
 
+![Alt text](images/summary_plot_1.png)
+
+![Alt text](images/summary_plot_2.png)
+
+# interpret the top 3 most important features and how they influence your model's predictions
+##     item_mrp:
+###     the dot plot display a greater concentration(red dots) to the right meaning that higher values of this will increase an item's sales
+
+##     outlet_size_medium:
+###     the higher positive concentration of medium size stores(red dots) will issue a positive impact to our prediction result
+##     item_weight:
+###     a central cluster of our values with mixed features(purple dots) is indicative of a(n) average/typical impact on the model predictions.
+
+# Local Explanations
+
+![Alt text](images/group_1_force.PNG)
+
+### Here we can see the force plot demonstrates that a higher MRP, can be the largest contributing factor to decreases in sales while the outlet_size_medium provides the largest increase to sales. A higher point to filter Item_MRP from would probably increase the predictability
+
+![Alt text](images/group_1_lime.PNG)
+
+### The lime explaination shows a lot of the same featuring our Item_MRP overwhelmingly giving negative contributions while outlet_size_medium excels in assisting sales predicability
+
+![Alt text](images/group_2_force.PNG)
+
+### Our higher filter point worked! This force plot shows largely postive contributing factors across the board, the small outlet size has shown itself to give our most noteworthy contribution to a decrease in sales predictability. Possibly will need more data specifically from small outlets
+
+![Alt text](images/group_2_lime.PNG)
+
+### Our lime explainer displays a heavy negative influence from our Item_Type_Breakfast, with a strong positive influnce from our Item_MRP filter point increase.
