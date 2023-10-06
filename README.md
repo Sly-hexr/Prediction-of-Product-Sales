@@ -99,3 +99,8 @@ While the model was somewhat unreliable the data visualizations we do have displ
 ![Alt text](images/group_2_lime.PNG)
 
 ### Our lime explainer displays a heavy negative influence from our Item_Type_Breakfast, with a strong positive influnce from our Item_MRP filter point increase.
+
+![POPS1](https://github.com/Sly-hexr/Prediction-of-Product-Sales/assets/133910731/f00da16d-588c-49b6-b43d-2639a9962edc)
+
+
+![POPS2](https://github.com/Sly-hexr/Prediction-of-Product-Sales/assets/133910731/191dcbf0-ea69-4992-b405-15a2b65be1ec)
