@@ -84,21 +84,25 @@ While the model was somewhat unreliable the data visualizations we do have displ
 
 # Local Explanations
 
-![Alt text](images/group_1_force.PNG)
+![Force1](https://github.com/Sly-hexr/Prediction-of-Product-Sales/assets/133910731/c12c3fa6-56f5-48ca-8b97-83836c7960bc)
 
-### Here we can see the force plot demonstrates that a higher MRP, can be the largest contributing factor to decreases in sales while the outlet_size_medium provides the largest increase to sales. A higher point to filter Item_MRP from would probably increase the predictability
+### Here we can see the force plot demonstrates that item visibility, as well as being a smaller but heavier health and hygeine product seems to increase it's predicted value
 
-![Alt text](images/group_1_lime.PNG)
+### The fact it isn't sold at a medium outlet is our largest negative contributor
 
-### The lime explaination shows a lot of the same featuring our Item_MRP overwhelmingly giving negative contributions while outlet_size_medium excels in assisting sales predicability
+![Lime1](https://github.com/Sly-hexr/Prediction-of-Product-Sales/assets/133910731/f40c4186-d66d-4ed0-b35b-70207d2cedaf)
 
-![Alt text](images/group_2_force.PNG)
+### The lime explaination shows a lot of the same featuring our Item_MRP, and missing outlet_size_medium, overwhelmingly giving negative contributions to predicted value, however the additional fact that it isn't sold as a Breakfast type seems to impact the predicted value notably.
 
-### Our higher filter point worked! This force plot shows largely postive contributing factors across the board, the small outlet size has shown itself to give our most noteworthy contribution to a decrease in sales predictability. Possibly will need more data specifically from small outlets
+![Force2](https://github.com/Sly-hexr/Prediction-of-Product-Sales/assets/133910731/f78bd449-4bdb-47a6-b35b-e1b530ee46cd)
 
-![Alt text](images/group_2_lime.PNG)
+### Our higher filter point worked! This force plot shows largely postive contributing factors across the board, making it more lightweight and working on the increase in the display of the item have also shown to influence the item having a higher value.
 
-### Our lime explainer displays a heavy negative influence from our Item_Type_Breakfast, with a strong positive influnce from our Item_MRP filter point increase.
+![Lime2](https://github.com/Sly-hexr/Prediction-of-Product-Sales/assets/133910731/6b49d81b-fff9-45a5-8d2a-96ce3ce5499d)
+
+### Our lime explainer displays a very strong positive performance from the MRP increase, however the largest contributor to projected losses in value for this item is the fact that it is not sold in medium outlets.
+
+### Even with all of the negative contributions the item MRP is able to outweigh and drive overall positive influence the predicted value of the item.
 
 ![POPS1](https://github.com/Sly-hexr/Prediction-of-Product-Sales/assets/133910731/f00da16d-588c-49b6-b43d-2639a9962edc)
 
