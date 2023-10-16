@@ -83,6 +83,7 @@ While the model was somewhat unreliable the data visualizations we do have displ
 ###     a central cluster of our values with mixed features(purple dots) is indicative of a(n) average/typical impact on the model predictions.
 
 # Local Explanations
+# Example One will be an cheap, heavier, less visible Item 
 
 ![Force1](https://github.com/Sly-hexr/Prediction-of-Product-Sales/assets/133910731/c12c3fa6-56f5-48ca-8b97-83836c7960bc)
 
@@ -94,6 +95,7 @@ While the model was somewhat unreliable the data visualizations we do have displ
 
 ### The lime explaination shows a lot of the same featuring our Item_MRP, and missing outlet_size_medium, overwhelmingly giving negative contributions to predicted value, however the additional fact that it isn't sold as a Breakfast type seems to impact the predicted value notably.
 
+# Example Two will be a(n) expensive, lightweight, more visible Item
 ![Force2](https://github.com/Sly-hexr/Prediction-of-Product-Sales/assets/133910731/f78bd449-4bdb-47a6-b35b-e1b530ee46cd)
 
 ### Our higher filter point worked! This force plot shows largely postive contributing factors across the board, making it more lightweight and working on the increase in the display of the item have also shown to influence the item having a higher value.
