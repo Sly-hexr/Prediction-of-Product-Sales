@@ -3,7 +3,7 @@
 #### Nicholas Rowland
 ------------------------------------------------------------
 # Purpose
-## The goal of these series of models is to identify success markers in our various locations and to improve by helping them understand the products and outlets that have a significant impact on increasing sales. Helping our locations understand the importance of these factors will be crucial in increasing sales to stimulate future growth of the company overall.
+## The goal of these series of models is to identify success markers in our various locations and to improve by helping local leaders understand the products and outlets that have a significant impact on increasing sales. Helping our locations understand the importance of these factors will be crucial in increasing sales to stimulate future growth of the company overall.
 
 
 # This dataset will provide a sales prediction for various supermarkets
