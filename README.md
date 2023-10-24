@@ -90,16 +90,16 @@ While the model was somewhat unreliable the data visualizations we do have displ
 ### Here we can see the force plot demonstrates that item visibility, as well as being a smaller but heavier health and hygeine product seems to increase it's predicted value
 
 ### The fact it isn't sold at a medium outlet is our largest negative contributor
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![Lime1](https://github.com/Sly-hexr/Prediction-of-Product-Sales/assets/133910731/f40c4186-d66d-4ed0-b35b-70207d2cedaf)
 
 ### The lime explaination shows a lot of the same featuring our Item_MRP, and missing outlet_size_medium, overwhelmingly giving negative contributions to predicted value, however the additional fact that it isn't sold as a Breakfast type seems to impact the predicted value notably.
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Example Two will be a(n) expensive, lightweight, more visible Item
 ![Force2](https://github.com/Sly-hexr/Prediction-of-Product-Sales/assets/133910731/f78bd449-4bdb-47a6-b35b-e1b530ee46cd)
 
 ### Our higher filter point worked! This force plot shows largely postive contributing factors across the board, making it more lightweight and working on the increase in the display of the item have also shown to influence the item having a higher value.
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![Lime2](https://github.com/Sly-hexr/Prediction-of-Product-Sales/assets/133910731/6b49d81b-fff9-45a5-8d2a-96ce3ce5499d)
 
 ### Our lime explainer displays a very strong positive performance from the MRP increase, however the largest contributor to projected losses in value for this item is the fact that it is not sold in medium outlets.
