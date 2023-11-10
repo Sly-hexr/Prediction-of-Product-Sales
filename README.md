@@ -102,7 +102,7 @@ While the model was somewhat unreliable the data visualizations we do have displ
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![Lime2](https://github.com/Sly-hexr/Prediction-of-Product-Sales/assets/133910731/6b49d81b-fff9-45a5-8d2a-96ce3ce5499d)
 
-### Our lime explainer displays a very strong positive performance from the MRP increase, however the largest contributor to projected losses in value for this item is the fact that it is not sold in medium outlets.
+### Our lime explainer displays a very strong positive performance from the MRP increase, however the largest contributor to projected losses in value for this item is the fact that it is not sold in medium outlets where it would perform best.
 
 ### Even with all of the negative contributions the item MRP is able to outweigh and drive overall positive influence the predicted value of the item.
 
