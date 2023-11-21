@@ -83,7 +83,7 @@ While the model was somewhat unreliable the data visualizations we do have displ
 ###     a central cluster of our values with mixed features(purple dots) is indicative of a(n) average/typical impact on the model predictions.
 
 # Local Explanations
-# Example One will be an cheap, heavier, less visible Item 
+# Example One will be an cheap, heavier, less visible Item. 
 
 ![Force1](https://github.com/Sly-hexr/Prediction-of-Product-Sales/assets/133910731/c12c3fa6-56f5-48ca-8b97-83836c7960bc)
 
